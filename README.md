@@ -1,6 +1,4 @@
-<marquee scrollamount="5" behavior="scroll" direction="left">
-  👋 Selamat datang di portofolio analisis data saya! | Sedang mempelajari SQL, Python, dan Tableau | Open for collaboration! 🚀
-</marquee>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Halo%2C+Selamat+Datang!;Saya+seorang+Data+Analyst+Awan.;Sedang+belajar+SQL+dan+Python!;Silahkan+lihat+proyek+saya+di+bawah." alt="Typing SVG" />
 
 # Halo, saya [JosuaAlexanderNaibaho] 👋
 
