@@ -7,5 +7,5 @@ Saya sedang mengembangkan keahlian di bidang **Data Analysis**, khususnya dalam 
 - **Tools:** SQL, Python, Excel / Google Sheets (atau tools lain yang kamu pelajari).
 
 ### 📬 Mari Terhubung
-- LinkedIn: [isi link LinkedIn kamu]
-- Email: [isi email kamu]
+- LinkedIn: [www.linkedin.com/in/josua-alexander]
+- Email: [josuaalexandernaibaho]
