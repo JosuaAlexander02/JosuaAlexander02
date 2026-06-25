@@ -8,4 +8,4 @@ Saya sedang mengembangkan keahlian di bidang **Data Analysis**, khususnya dalam 
 
 ### 📬 Mari Terhubung
 - LinkedIn: [www.linkedin.com/in/josua-alexander]
-- Email: [josuaalexandernaibaho]
+- Email: [josuaalexandernaibaho@gmail.com]
