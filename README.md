@@ -13,3 +13,12 @@ Saya sedang mengembangkan keahlian di bidang **Data Analysis**, khususnya dalam 
 ### 📬 Mari Terhubung
 - LinkedIn: [www.linkedin.com/in/josua-alexander]
 - Email: [josuaalexandernaibaho@gmail.com]
+
+<picture>
+  <!-- Gambar yang muncul kalau pengunjung pakai DARK MODE -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/inputs/typing-aura-dark.gif">
+  <!-- Gambar yang muncul kalau pengunjung pakai LIGHT MODE -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/inputs/typing-aura-light.gif">
+  <!-- Gambar standar (fallback) -->
+  <img alt="Welcome" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/inputs/typing-aura-light.gif">
+</picture>
